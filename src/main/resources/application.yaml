@@ -3,6 +3,3 @@ spring:
     name: ead-api-gateway
   profiles:
     active: prod
-
-
-
